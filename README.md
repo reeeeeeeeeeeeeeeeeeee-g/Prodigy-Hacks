@@ -1,2 +1,0 @@
-# Prodigy-Hacks
-Prodigy Hacks
