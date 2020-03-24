@@ -1,0 +1,5 @@
+// Levels all pets to level 100.
+let x = PIXI.game.prodigy.player.kennel.data;
+for (let i=0; i<x.length; i++) { 
+    x[i].level=100;
+};
