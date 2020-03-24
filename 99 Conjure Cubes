@@ -1,0 +1,2 @@
+PIXI.game.prodigy.debugMisc.getCubes(99);
+PIXI.game.prodigy.create.conjureCubeButton();
